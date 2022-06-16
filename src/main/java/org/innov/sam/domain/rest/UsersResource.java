@@ -1,4 +1,4 @@
-package org.innov.sam.domain.web.rest;
+package org.innov.sam.domain.rest;
 
 
 
